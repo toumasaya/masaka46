@@ -1,24 +1,14 @@
-# README
+# Rails practice
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Rails 練習 - 投票系統
 
-Things you may want to cover:
+建構一個絕交坂46偶像團體團員選拔的網站，可以呈現團員的資料，可以投票給團員。
 
-* Ruby version
+嘗試使用 RSpec 來建構程式。
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## SPEC
+* 有一個 Landing Page
+* 可以列出所有團員候選人的資料
+* 可以新增、修改、刪除候選人資料
+* 欄位：姓名、年齡、才藝、興趣、頭貼（欄位為必填）
+* 可以投票給候選人
